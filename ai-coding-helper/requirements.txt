@@ -1,0 +1,16 @@
+# requirements.txt 【最新稳定兼容版】
+langchain==1.2.15
+langchain-chroma>=1.1.0
+langchain-community>=0.2.15
+langchain-openai>=0.1.25
+langgraph>=0.2.50
+dashscope>=1.24.0
+openai>=1.55.0
+python-dotenv>=1.0.1
+tiktoken>=0.8.0
+pydantic>=2.9.2
+tree-sitter>=0.22.1
+tree-sitter-python>=0.21.0
+chromadb>=0.5.20
+watchdog>=4.0.0
+numpy>=1.24.0
